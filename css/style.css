@@ -446,3 +446,20 @@ nav a.active {
     height: 300px;
   }
 }
+
+footer {
+    text-align: center;
+    background-color: #001f3f;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 0;
+}
+
